@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Sudoku
+comment1.params=sudoku
+comment1.target=Sudoku(int[][])
+comment2.params=
+comment2.target=void\ printSudoku()
+comment3.params=row\ col
+comment3.target=int[]\ numberUnassigned(int,\ int)
+comment4.params=n\ r\ c
+comment4.target=boolean\ isSafe(int,\ int,\ int)
+comment5.params=
+comment5.target=boolean\ solveSudoku()
+numComments=6
